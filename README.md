@@ -6,23 +6,6 @@
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 
 <!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/rppradhan08/pneumonia-detection">
-    <img src="https://raw.githubusercontent.com/rppradhan08/pneumonia-detection/master/images/logo.PNG" alt="Logo" width="200px" height="100px">
-  </a>
-
-  <p align="center">
-    Pneumonia Detection using CNN
-    <br />
-    <a href="https://github.com/rppradhan08/pneumonia-detection"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/rppradhan08/pneumonia-detection">View Demo</a>
-    ·
-    <a href="https://github.com/rppradhan08/pneumonia-detection/issues">Report Bug</a>
-  </p>
-</p>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -111,7 +94,7 @@ To run this application firstly execute `python app.py`, after which the flask b
 `http://127.0.0.1:5000/`
 
 ## Contact
+Jeet Umat - 201801231@daiict.ac.in
+Ajay Vala - 201801414@daiict.ac.in
+Hardik Madhwani - 201801409@daiict.ac.in
 
-Raj Praveen Pradhan - [LinkedIn](https://in.linkedin.com/in/raj-praveen-pradhan-306625101)
-
-Kaggle Kernel: [https://www.kaggle.com/rajpraveenpradhan/keras-based-cnn-model-for-pneumonia-detection](https://www.kaggle.com/rajpraveenpradhan/keras-based-cnn-model-for-pneumonia-detection)
