@@ -22,10 +22,10 @@
 ## About The Project
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rppradhan08/pneumonia-detection/master/images/person1661_virus_2872.jpeg" height="250px" width="300px">
+  
 </p>
 This project uses <a href="https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia">Chest X-Ray dataset</a> from kaggle.
-The dataset is organized into 3 folders (train, val & test) and contains subfolders for each image category (Pneumonia/Normal). There are 5,863 X-Ray images (JPEG) and 2 categories (Pneumonia/Normal). These images are used for building an CNN model using keras to detect pneumonia in patients based on X-ray reports. After model building the best performing model is used to build a flask base web application.
+The dataset is organized into 3 folders (train, val & test) and contains subfolders for each image category (Pneumonia/Normal). There are 5,863 X-Ray images (JPEG) and 2 categories (Pneumonia/Normal). These images are used for building an CNN model using keras to detect pneumonia in patients based on X-ray reports.For malaria dataset we have used <a href=https://lhncbc.nlm.nih.gov/">. Malaria dataset has two catagories parasitized and uninfected. We also used cnn for training model for malaria detection. After model building the best performing model is used to build a flask base web application.
 
 ### Steps involved
 
