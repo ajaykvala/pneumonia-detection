@@ -74,11 +74,11 @@ Below are few snapshots of application in use:
 
 - Step 1 Uploading X-Ray
   <p align="center">
-    <img src="https://raw.githubusercontent.com/rppradhan08/pneumonia-detection/master/images/home.PNG" height="300px">
+    <img src="https://github.com/umatjeet/pneumonia-detection/blob/main/images/home.png" height="300px">
   </p>
 - Step 2 Displaying Result
   <p align="center">
-    <img src="https://raw.githubusercontent.com/rppradhan08/pneumonia-detection/master/images/normal.PNG" height="200px">
+    <img src="https://github.com/umatjeet/pneumonia-detection/blob/main/images/normal.png" height="200px">
   </p>
 
 <!-- CONTACT -->
